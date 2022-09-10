@@ -1,0 +1,200 @@
+[
+    {
+        "label": "Beneficiary Address",
+        "name": "beneficiary_address",
+        "order": 4,
+        "type": "Personal",
+        "columnDataType": "string",
+        "isRequired": true,
+        "isDisplayable": true
+    },
+    {
+        "label": "Beneficiary City",
+        "name": "beneficiary_city",
+        "order": 5,
+        "type": "Personal",
+        "columnDataType": "string",
+        "isRequired": true,
+        "isDisplayable": true
+    },
+    {
+        "label": "Beneficiary First Name",
+        "name": "beneficiary_first_name",
+        "order": 1,
+        "type": "Personal",
+        "columnDataType": "string",
+        "isRequired": true,
+        "isDisplayable": true
+    },
+    {
+        "label": "Beneficiary Last Name",
+        "name": "beneficiary_last_name",
+        "order": 2,
+        "type": "Personal",
+        "columnDataType": "string",
+        "isRequired": true,
+        "isDisplayable": true
+    },
+    {
+        "label": "Beneficiary Postcode",
+        "name": "beneficiary_postcode",
+        "order": 6,
+        "type": "Personal",
+        "columnDataType": "string",
+        "isRequired": false,
+        "isDisplayable": false
+    },
+    {
+        "label": "Beneficiary Relationship",
+        "name": "beneficiaryRelationId",
+        "order": 7,
+        "type": "Personal",
+        "columnDataType": "string",
+        "isRequired": true,
+        "isDisplayable": true
+    },
+    {
+        "label": "Beneficiary Reason",
+        "name": "beneficiaryReasonId",
+        "order": 25,
+        "type": "Personal",
+        "columnDataType": "string",
+        "isRequired": true,
+        "isDisplayable": true
+    },
+    {
+        "label": "Bank Account Number",
+        "name": "acct_number",
+        "order": 16,
+        "type": "Banking",
+        "columnDataType": "string",
+        "isRequired": true,
+        "isDisplayable": true
+    },
+    {
+        "label": "Routing/Sort Code",
+        "name": "sort_code",
+        "order": 15,
+        "type": "Banking",
+        "columnDataType": "string",
+        "isRequired": true,
+        "isDisplayable": true
+    },
+    {
+        "label": "IBAN",
+        "name": "iban",
+        "order": 18,
+        "type": "Banking",
+        "columnDataType": "string",
+        "isRequired": false,
+        "isDisplayable": false
+    },
+    {
+        "label": "BIC/Swift",
+        "name": "bic_swift",
+        "order": 17,
+        "type": "Banking",
+        "columnDataType": "string",
+        "isRequired": false,
+        "isDisplayable": false
+    },
+    {
+        "label": "ABA",
+        "name": "aba",
+        "order": 20,
+        "type": "Banking",
+        "columnDataType": "string",
+        "isRequired": false,
+        "isDisplayable": false
+    },
+    {
+        "label": "BSB Code",
+        "name": "bsb_code",
+        "order": 19,
+        "type": "Banking",
+        "columnDataType": "string",
+        "isRequired": false,
+        "isDisplayable": false
+    },
+    {
+        "label": "Institution Number",
+        "name": "institution_no",
+        "order": 13,
+        "type": "Banking",
+        "columnDataType": "string",
+        "isRequired": false,
+        "isDisplayable": false
+    },
+    {
+        "label": "Bank Code",
+        "name": "bank_code",
+        "order": 14,
+        "type": "Banking",
+        "columnDataType": "string",
+        "isRequired": false,
+        "isDisplayable": false
+    },
+    {
+        "label": "CLABE",
+        "name": "clabe",
+        "order": 21,
+        "type": "Banking",
+        "columnDataType": "string",
+        "isRequired": false,
+        "isDisplayable": false
+    },
+    {
+        "label": "CNAPS",
+        "name": "cnaps",
+        "order": 22,
+        "type": "Banking",
+        "columnDataType": "string",
+        "isRequired": false,
+        "isDisplayable": false
+    },
+    {
+        "label": "IFSC",
+        "name": "ifsc",
+        "order": 23,
+        "type": "Banking",
+        "columnDataType": "string",
+        "isRequired": false,
+        "isDisplayable": false
+    },
+    {
+        "label": "Bank Name",
+        "name": "bank_name",
+        "order": 11,
+        "type": "Banking",
+        "columnDataType": "string",
+        "isRequired": false,
+        "isDisplayable": false
+    },
+    {
+        "label": "Bank Address",
+        "name": "bank_address",
+        "order": 12,
+        "type": "Banking",
+        "columnDataType": "string",
+        "isRequired": false,
+        "isDisplayable": false
+    },
+    {
+        "label": "Beneficiary DOB",
+        "name": "beneficiary_dob",
+        "order": 3,
+        "type": "Personal",
+        "columnDataType": "Datetime",
+        "isRequired": false,
+        "isDisplayable": false
+    },
+    {
+        "label": "Unique Reference /NickName",
+        "name": "beneficiary_nickname",
+        "order": 8,
+        "type": "Personal",
+        "columnDataType": "string",
+        "isRequired": true,
+        "isDisplayable": true
+    }
+]
