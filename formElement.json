@@ -1,4 +1,3 @@
-{
 "inputFormElements" : [
     {
         "name": "firstName",
@@ -73,5 +72,4 @@
         "xs": 12,
         
     }
-] 
-}
+]
